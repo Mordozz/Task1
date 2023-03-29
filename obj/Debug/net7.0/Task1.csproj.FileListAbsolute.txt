@@ -1,0 +1,15 @@
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\bin\Debug\net7.0\Task1.exe
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\bin\Debug\net7.0\Task1.dll
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.dll
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\tyqua\Documents\VSC\Practice\FirstLesson\task1\obj\Debug\net7.0\ref\Task1.dll
